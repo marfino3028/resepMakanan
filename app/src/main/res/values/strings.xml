@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Recipy</string>
+    <string name="action_settings">Setting</string>
+    <string name="action_search">Search</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+    <string name="nav_item_home">Resep Pecel</string>
+    <string name="nav_item_friends">Resep Soto</string>
+    <string name="nav_item_notifications">Resep Spaghetti</string>
+
+    <string-array name="nav_drawer_labels">
+        <item>@string/nav_item_home</item>
+        <item>@string/nav_item_friends</item>
+        <item>@string/nav_item_notifications</item>
+    </string-array>
+
+    <string name="title_messages">Resep Spaghetti</string>
+    <string name="title_friends">Resep Soto</string>
+    <string name="title_home">Resep Pecel</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
